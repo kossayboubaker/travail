@@ -1,0 +1,105 @@
+[
+	{ 	"id": "jobs",
+		"data" 	:	[  
+            
+            {
+                "jobTitle" 	:			"futur Developer",
+                "company" 	:			"reass-dhraa,Tozeur",
+        
+                
+                "countryAndlocation" :	"Tozeur-tunisie",
+                "languages" : 			["EN","Fr","Ar"],
+                "toolsUsed" :			["Reactjs","angular","nodejs","Bootsrap"],
+                
+                "jobDomain" :			["Web Developer"]
+            }
+            
+        ]
+	},
+	{	"id": "jobDomains",
+		"data": [
+					{	"domain": "web Developer" }
+                    
+				
+				]
+	},
+	{	"id": "jobLocations",
+		"data": [
+				
+						
+					{ 
+						"country": "Tn",
+						"location": ["2200", "reas dhrae", "Tozeur"]
+					}
+				]
+	},
+	{	"id": "languages",
+		"data": [
+					{ "lcode":"Ar", "lingo":"Arabic", 	"level":"native" },
+					{ "lcode":"EN", "lingo":"English", 	"level":"A1" },
+					{ "lcode":"FR", "lingo":"French", 	"level":"C1" }
+					
+				]
+	},
+	{	"id": "tools",
+		"data": [
+			{ 
+				"platform": "windows", 
+				"skills": [ 
+							
+							
+							"MS Excel ",
+							
+							"MS Word "
+						
+		 				]  
+			},
+			{ 
+				"platform": "WebDev", 
+				"skills": 	[
+								"HTML",
+								"tailwindcss",
+					            "Nodejs",
+                                "MongoDB",
+                                "Photoshop",
+								"AngularJS",
+								"JQuery",
+								"Bootstrap",
+								"CSS"
+								
+							]  
+			}
+			
+			
+		]
+	},
+	{	"id": "education",
+		"data": [
+					"2013-2015 - primary school : i stady  first cycle in high school 7 november at tozeur  " ,
+					"2016-2020 - secondary school : i stady  secondary cycle in high school abou kassem chebbi ",
+					"2020 - Baccalorie's degree", 
+					"2020-2021 - the University : i stady At university of Tozeur ",
+					"2020-2021 - I did a initiation stage at the Itqan company"
+				]
+	},
+	{	"id": "",
+        "data": [
+            "<b>Futur<em> <b>Developer , Designer</em></b></b>","</br></br>",
+            "Hello everyone im kossay boubaker to day i will show you my profile",
+            "</br></br>",
+            "first , in my profile you can know my location , my contry and my school life my college life",
+            "</br></br>",
+            "As well as the uses of languages specific to the web"
+            
+                    ]
+	},
+	{	"id": "contact",
+		"data": [
+					{ "item": "Email", 			"value": "kossayboubaker410@gmail.com" },
+					{ "item": "phone", 	"value": "Existing" },
+                    { "item": "Facebook", 	"value": "Existing" },
+                    { "item": "Instgram", 	"value": "Existing" },
+                    { "item": "linkedin", 	"value": "Existing" }
+				]
+	}
+]
